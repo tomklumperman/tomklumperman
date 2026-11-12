@@ -12,7 +12,7 @@ For my Master's research, I created a pipeline to automize cell quantification p
 
 ## Sayver
 
-I wanted to create an easy way to save money together with other people. This ended up in a an app to have an overview of all your finances. A main feature is to save for goals together with others. [Have a look at the code](https://github.com/tomklumperman/Sayver)
+I wanted to create an easy way to save money together with other people. This ended up in a an app where you have an overview of all your finances. A main feature is to save for goals together with others. [Have a look at the code](https://github.com/tomklumperman/Sayver)
 
 <p align="center">
   <img src="images/Future-1.PNG" alt="Sayver future finances screen" width="23%">
@@ -22,6 +22,7 @@ I wanted to create an easy way to save money together with other people. This en
 </p>
 
 
+## Others
 - 🔭 I’m currently working on a review / meta-analyses article about VO2max
 
 - 📫 You can reach me via email: tomklumperman@gmail.com
