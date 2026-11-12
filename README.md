@@ -1,7 +1,5 @@
 <img src="images/projects-banner-github.jpeg" alt="Banner" width="100%">
 
-A short overview of my recent projects.
-
 ## Master's research
 
 For my Master's research, I created a pipeline to automize cell quantification per brain area.
