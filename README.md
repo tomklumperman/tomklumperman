@@ -22,8 +22,7 @@ I wanted to create an easy way to save money together with other people. This en
 </p>
 
 
+- 🔭 I’m currently working on a review / meta-analyses article about VO2max
 
-- 🔭 I’m currently working on ...
-
-- 📫 How to reach me: ...
+- 📫 You can reach me via email: tomklumperman@gmail.com
 
