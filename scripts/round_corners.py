@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw
 
 SRC = "images/projects-banner-github.jpeg"
-DST = "images/banner-rounded.jpeg"
+DST = "images/banner-rounded.png"
 RADIUS_PERCENT = 3  # afronding als percentage van de breedte
 
 img = Image.open(SRC).convert("RGBA")
