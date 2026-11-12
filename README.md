@@ -1,4 +1,4 @@
-<img src="images/projects-banner-github.jpeg" alt="Banner" width="100%">
+<img src="images/banner-rounded.png" alt="Banner" width="100%">
 
 ## Master's research
 
