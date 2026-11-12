@@ -2,7 +2,7 @@
 
 ## Master's research
 
-For my Master's research, I created a pipeline to automize cell quantification per brain area.
+For my Master's research, I created a pipeline to automize cell quantification per brain area. [Have a look at the code](https://github.com/tomklumperman/Master-thesis)
 
 <p align="center">
   <img src="images/Methods-cellCount.png" alt="Cell detection" width="26%">
@@ -12,7 +12,7 @@ For my Master's research, I created a pipeline to automize cell quantification p
 
 ## Sayver
 
-I wanted to create an easy way to save money together with other people. This ended up in a an app to have an overview of all your finances. A main feature is to save for goals together with others.
+I wanted to create an easy way to save money together with other people. This ended up in a an app to have an overview of all your finances. A main feature is to save for goals together with others. [Have a look at the code](https://github.com/tomklumperman/Sayver)
 
 <p align="center">
   <img src="images/Future-1.PNG" alt="Sayver future finances screen" width="23%">
